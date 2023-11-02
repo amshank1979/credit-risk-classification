@@ -28,6 +28,7 @@ Stages of Machine Learning
 1.	Data Collection:
 
 •	Gather the dataset containing relevant information about loans and borrowers.
+
 2.	Data Preprocessing:
 
 •	Clean the data by handling missing s, outliers, and formatting issues.
