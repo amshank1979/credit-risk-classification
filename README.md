@@ -6,14 +6,17 @@ The financial information in the provided data is related to lending activities,
 The prediction of loan status is critical for the peer-to-peer lending company to make informed decisions about approving or rejecting loan applications. The company wants to minimize the risk of loan defaults by identifying high-risk borrowers, while also ensuring they provide opportunities to creditworthy individuals.
 
 Methods Used
+
 •	Machine Learning
 •	Logistic Regression
 •	Confusion Matrix
 
 Language
+
 •	Python
 
 Module
+
 •	skicit-learn
 •	matplotlib
 •	pandas
