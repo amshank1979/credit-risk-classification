@@ -34,12 +34,5 @@ Stages of Machine Learning
 •	Analyze and visualize the data to gain insights into the relationships between variables.
 •	Identify correlations and patterns in the data that may be relevant to loan risk assessment.
 
-Model Selection:
-•	Choose the appropriate machine learning algorithm(s) for your problem. For credit risk assessment, common models include logistic regression, decision trees, random forests, or gradient boosting.
-•	Documentation:
-•	Document the entire machine learning process, including data sources, methods, and results.
-•	Reporting and Communication:
-•	Share the findings and insights with stakeholders, and explain how the model works and its implications.
-
 Conclusion
 Based on the Classification Report, the highest F1-score was obtained in the decision tree model of 0.92 or 92%, the result of which is close to 1, indicating that the model performance is very good. The interpretation of the results obtained by researchers has the conclusion that to find out whether a debtor is eligible to receive credit or not by taking into account the amount of annual income, loan class, interest rate, percent of income, home ownership mortgage/rent, history of default. In the application that is formed, when it is submitted, it will appear approved or rejected according to the eligibility level of the recipient of the credit customer.
