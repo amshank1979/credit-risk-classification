@@ -24,13 +24,17 @@ Module
 •	seaborn
 
 Stages of Machine Learning
+
 1.	Data Collection:
+
 •	Gather the dataset containing relevant information about loans and borrowers.
 2.	Data Preprocessing:
+
 •	Clean the data by handling missing s, outliers, and formatting issues.
 •	Convert categorical variables into numerical format using techniques like one-hot encoding.
 •	Split the data into features (independent variables) and the target variable (loan risk or creditworthiness).
 3.	Exploratory Data Analysis (EDA):
+
 •	Analyze and visualize the data to gain insights into the relationships between variables.
 •	Identify correlations and patterns in the data that may be relevant to loan risk assessment.
 
